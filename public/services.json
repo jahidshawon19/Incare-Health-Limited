@@ -1,0 +1,38 @@
+ [
+  {
+    "id": 1,
+    "img": "https://media.istockphoto.com/photos/patient-care-just-got-a-whole-lot-more-streamlined-picture-id1288871608?b=1&k=20&m=1288871608&s=170667a&w=0&h=65AfPv73VJBe2zEidtW_0iOvPhRyNfesqksdPDRqibg=",
+    "serviceName": "Cardiology Department",
+    "shortDescription": "The Cardiology Department has gained reputation for its dynamic and innovation in the diagnosis."
+  },
+  {
+    "id": 2,
+    "img": "https://media.istockphoto.com/photos/asian-chinese-female-doctor-working-on-medical-report-with-laptop-and-picture-id1309783183?b=1&k=20&m=1309783183&s=170667a&w=0&h=M9TeQBEjvv5b0E4SINbc5oFkTBYmi7-eo3RTTBDHjdk=",
+    "serviceName": "Neurology Department",
+    "shortDescription": "The Cardiology Department has gained reputation for its dynamic and innovation in the diagnosis."
+  },
+  {
+    "id": 3,
+    "img": "https://media.istockphoto.com/photos/healthcare-workers-portrait-picture-id1284636209?b=1&k=20&m=1284636209&s=170667a&w=0&h=j_vm0DELoS5ZhzbqYAI60nHoO57jHlrGIyLgqBs6Wyg=",
+    "serviceName": "Urology Department",
+    "shortDescription": "The Cardiology Department has gained reputation for its dynamic and innovation in the diagnosis."
+  },
+  {
+    "id": 4,
+    "img": "https://media.istockphoto.com/photos/mature-doctor-and-nurse-discussing-patient-case-picture-id1307543555?b=1&k=20&m=1307543555&s=170667a&w=0&h=KKk1RkwzUkT_a6Kqf0jh7aBEVpIMG048FALjEAPyDp0=",
+    "serviceName": "Othopedic Department",
+    "shortDescription": "The Cardiology Department has gained reputation for its dynamic and innovation in the diagnosis."
+  },
+  {
+    "id": 5,
+    "img": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGhlYWx0aGNhcmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "serviceName": "Gastroenterology ",
+    "shortDescription": "The Cardiology Department has gained reputation for its dynamic and innovation in the diagnosis."
+  },
+  {
+    "id": 6,
+    "img": "https://media.istockphoto.com/photos/caregiver-assist-senior-woman-at-home-picture-id1296176562?b=1&k=20&m=1296176562&s=170667a&w=0&h=gHya2Ee_SnnfngzSvzRra93uSlb7xG76apicnILHvIw=",
+    "serviceName": "Nephrology  ",
+    "shortDescription": "The Cardiology Department has gained reputation for its dynamic and innovation in the diagnosis."
+  }
+]
